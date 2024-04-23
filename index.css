@@ -148,3 +148,48 @@
   font-size: 22px;
   color: #707070;
 }
+
+
+
+
+
+
+
+
+
+
+
+.custom_list{ 
+  counter-reset: listItem;
+  list-style: none; 
+  padding-top: 105px;
+  padding-bottom: 120px;
+    
+  
+}
+
+
+li::before{
+  content:"0" counter(listItem);
+  counter-increment: listItem
+  
+  
+}
+
+
+.custom_list p{
+  font-size: 22px;
+  font-family: "Merryweather",serif;
+  color:#707070;
+}
+
+.custom_list a{
+  color: red;
+  font-size: 22px;
+  font-family: "Merryweather",serif;
+}
+
+li{
+  margin-top: 80px;
+}
+
