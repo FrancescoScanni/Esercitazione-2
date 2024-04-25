@@ -8,6 +8,7 @@
     list-style: none;
     font-size: 22px;
     font-family: Merriweather;
+    padding-left: 0px;
     
   }
   li:before {
