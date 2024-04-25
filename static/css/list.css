@@ -1,6 +1,6 @@
 .lista{
     padding-top: 105px;
-    padding-bottom: 120px;
+    padding-bottom: 105px;
     background-color: #f5f5f5;
   }
   ul{
@@ -20,6 +20,7 @@
     color:#FF0000;
     padding-bottom: 100px;
   }
+
   .para{
     color: #707070;
     padding-bottom: 40px;
@@ -31,7 +32,7 @@
   .lin{
     color:#707070;
     height: 2px;
-    margin-top: 10px;
+    margin-top: 8px;
     padding-bottom: 15px;
     border-width: 2px;
   }
