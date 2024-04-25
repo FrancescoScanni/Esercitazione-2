@@ -1,4 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import "fonts.css";
+@import "list.css";
+@import "button.css";
+@import "titolo.css";
+@import "sottotitolo.css";
+@import "heroes.css";
+@import "firma.css";
 
 .merriweather-light {
   font-family: "Merriweather", serif;
@@ -55,96 +62,23 @@
 
 
 
-.hero.variant-one{
-    padding-top: 130px;
-    padding-bottom: 120px;
-    background-color:#CEFBFF;
-  }
-
-.titolo{
-    font-size: 90px;
-    font-family: "Merryweather",serif;
-    color: #707070;
-}
-
-.sottotitolo{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 35px;
-    color: gray;
-    margin-top: 35px;
-}
-
-.button{
-    content:"";
-    margin-top: 35px;
-    color: white;
-    background: #240202;
-    text-decoration: none;
-    display: block;
-    font-size: 35px;
-    padding: 14px 33px;
-    font-family: "Merryweather",serif;
- 
-}
 
 
 
 
 
 
-.hero .variant-two{
-    padding-top: 105px;
-    padding-bottom: 120px;
-    background-color:#CEFBFF;
-  }
-
-.num{
-  font-size: 70px;
-  color:#707070;
-  font-family:"Merryweather",serif;
-}
-
-.para{
-  font-family:"Merryweather",serif;
-  color: #707070;
-  font-size: 22px;
-}
-
-.go{
-  font-size: 22px;
-  padding-top: 30px;
-  color: red;
-}
-  
-.set.one{
-  margin-top: 105px;
-}
-
-.set.four{
-  padding-bottom: 150px;
-}
-
-.set{
-  padding-bottom: 80px;
-}
-
-.lin{
-  color:#707070;
-  border-width: 3px;
-}
 
 
 
 
 
-.hero.variant-three{
-  padding-top: 80px;
-  padding-bottom: 200px;
-  background-color: #ECCEFF;
-}
 
-.company{
-  font-family:"Merryweather",serif;
-  font-size: 22px;
-  color: #707070;
-}
+
+
+
+
+
+
+
+
